@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kenziebottoms/nss-back-00-server-intro#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "nodemon": "^1.17.1"
   }
 }
